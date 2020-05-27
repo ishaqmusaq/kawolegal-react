@@ -1,0 +1,95 @@
+
+.n1{
+	border:0px;
+	background-color: rgb(78, 11, 24);
+	color:rgb(78, 11, 24) ;
+	margin-bottom: 0px;
+	padding: 1.5rem;
+	
+}
+.container-flex{display: flex;
+
+}
+
+img{
+	float: right;
+}
+
+h2{
+	color: lightblue;
+}
+
+.p1{
+	color: #fff;
+	font-size: 2rem;
+}
+
+.text-right{
+	display: flex;
+}
+
+.p2{
+	background-color: indigo;
+	border: 0px;
+	padding: 1rem;
+	width: 20rem;
+	color: #fff;
+	font-size: 2rem;
+
+}
+
+
+element.style {
+    background-image: url(i/tree-logoa.jpg);
+}
+
+.view {
+    background: url(i/tree-logoa.jpg)no-repeat center center;
+    background-size: cover;
+    cursor: default;
+    background-color: rgb(78, 11, 24);
+}
+
+footer{
+	margin-top: 1.5rem;
+	    background-color: rgb(78, 11, 24);
+	    padding: 1rem;
+	    color: whitesmoke;
+}
+.p3{
+	padding: 0.5rem;
+	color: #fff;
+	font-size: 1.5rem;
+}
+
+a{
+	background-color: rgb(78, 11, 24);
+	color:rgb(78, 11, 24) ;
+}
+
+
+.a{
+	background-color:whitesmoke;
+	padding-top: 1.5rem;
+	border:0px; 
+	margin-left:0px; 
+	width: initial;
+	
+}
+
+.ab{
+ background-color: rgb(78, 11, 24);
+ margin-top: ;
+
+
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #d82e2e;
+}
+.navbar-default .navbar-brand {
+    color: #df2e2e;
+}
+.password{
+	visibility: hidden;
+}

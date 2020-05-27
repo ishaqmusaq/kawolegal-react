@@ -1,0 +1,63 @@
+.top{
+	color: #fff;
+	background-color: black;
+	float: right;
+	font-size: 1.1rem;
+	padding: 0.1rem;
+}
+
+.thumbnail{
+	border: 0px;
+}
+
+.line{
+	background-color: orange;
+	padding: 0.5px;
+	width: 3rem;
+	margin-left: 90px;
+	margin-bottom: 0.5rem;
+}
+
+.bottom{
+	background-color: black;
+	padding: 1rem;
+	border-radius:3rem;
+}
+
+a{
+	color: #fff;
+}
+
+b{
+	font-size: 2rem;
+}
+
+
+
+#a{
+	
+    float: right;
+    font-size: 2rem;
+    
+}
+
+
+#q{
+	padding: 1.5px;
+	border-radius: 5rem;
+}
+
+select{
+	padding: 0rem;
+	width: 20rem;
+    float: right;
+    margin-top: initial;
+    padding-bottom: 1rem;
+
+
+}
+
+img{
+	max-height: 150px;
+
+}

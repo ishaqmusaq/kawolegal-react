@@ -1,0 +1,55 @@
+.c1{
+	padding: 35px;
+	font-size: 40px;
+
+}
+
+.c2{
+	padding: 30px;
+	font-size: 20px;
+}
+
+.a{
+	padding: 50px;
+}
+
+.c3{
+	padding: 35px;
+	font-size: 40px;
+
+}
+
+.c4{
+	background-color: indigo;
+}
+
+h5{
+	color: green;
+}
+
+
+.f{
+	color: orange;
+}
+
+.a1{
+	color: #fff;
+}
+
+.navbar-home{
+	padding: 5px;
+	font-size: 25px;
+	text-align: left;
+	margin:0px; 
+	background-color: whitesmoke;
+}
+
+.img{
+	padding: 0rem;
+	display: flex;
+	margin-top: 3rem;
+}
+
+.id{
+	margin-top: 3rem;
+}
